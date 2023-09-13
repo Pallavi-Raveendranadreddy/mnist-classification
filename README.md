@@ -11,14 +11,22 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## DESIGN STEPS
 
-# STEP 1: Import the required packages
-# STEP 2: Load the dataset
-# STEP 3: Scale the dataset
-# STEP 4: Use the one-hot encoder
-# STEP 5: Create the model
-# STEP 6: Compile the model
-# STEP 7: Fit the model
-# STEP 8: Make prediction with test data and with an external data
+### STEP 1: 
+Import the required packages
+### STEP 2: 
+Load the dataset
+### STEP 3:
+Scale the dataset
+### STEP 4: 
+Use the one-hot encoder
+### STEP 5:
+Create the model
+### STEP 6:
+Compile the model
+### STEP 7: 
+Fit the model
+### STEP 8:
+Make prediction with test data and with an external data
 
 ## PROGRAM
 ```

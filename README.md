@@ -22,6 +22,10 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## PROGRAM
 ```
+NAME: VALASAREDDY PALLAVI
+REG NO:212221240059
+```
+```
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
